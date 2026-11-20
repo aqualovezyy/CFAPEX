@@ -1,6 +1,6 @@
-- 获取最新代码及明文代码：[Telegram 交流群](https://t.me/ROTOGE)[Telegram 发布频道](https://t.me/ROTOGEGE)
-订阅开发者频道，支持开发者：[作者频道](https://www.youtube.com/@SHITOUGE)
-注：仓库不再提供历史代码请在发布频道内获取，明文代码仅作为开源/二创使用，请勿实例部署；
+- 获取最新代码及明文代码：[Telegram 交流群](https://t.me/ROTOGE)    [Telegram 发布频道](https://t.me/ROTOGEGE)
+- 订阅开发者频道，支持开发者：[作者频道](https://www.youtube.com/@SHITOUGE)
+- 注：仓库不再提供历史代码请在发布频道内获取，明文代码仅作为开源/二创使用，请勿实例部署；
 # 感谢项目赞助商
 [超高性价比机场](https://shitou.mmmoyou.com/#/register?code=rc9pidAK)
 ---
